@@ -1,0 +1,5 @@
+module.exports = {
+  routePath: 'interface/hospital',
+  formConfig: {"formJson":[{"name":"id","component":{"name":"Input","props":{"type":"hidden"}},"wrapper":true},{"label":"入院途径","key":"Input","component":{"name":"Input"},"name":"HbgaH8FhIs"},{"label":"多选框","key":"CheckboxGroup","component":{"name":"CheckboxGroup","children":[{"label":"A","value":"A"},{"label":"B","value":"B"},{"label":"C","value":"C"},{"label":"D","value":"D"}]},"name":"uIYihadNFg"},{"label":"数字输入框","key":"InputNumber","component":{"name":"InputNumber"},"name":"gqBRnY3K43"},{"label":"选择器","key":"Select","component":{"name":"Select","children":[{"label":"A","value":"A"},{"label":"B","value":"B"},{"label":"C","value":"C"},{"label":"D","value":"D"}]},"name":"cHxQmucH8x"},{"label":"日期选择","key":"DatePicker","component":{"name":"DatePicker"},"name":"YMLVOtWnUJ"}],"formLayout":"horizontal"},
+  gridConfig: {"columns":[{"title":"入院途径","dataIndex":"HbgaH8FhIs"},{"title":"多选框","dataIndex":"uIYihadNFg"},{"title":"数字输入框","dataIndex":"gqBRnY3K43"},{"title":"选择器","dataIndex":"cHxQmucH8x"},{"title":"日期选择","dataIndex":"YMLVOtWnUJ"}]}
+}

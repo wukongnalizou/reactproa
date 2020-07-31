@@ -1,0 +1,20 @@
+{
+  "name": "pea-cli",
+  "version": "0.5.11",
+  "description": "init a 'pea' project quickly !",
+  "main": "index.js",
+  "bin": {
+    "pea-cli": "./index.js"
+  },
+  "files": [
+    "index.js", "pea-cli.md", "templates"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pea-cli"
+  ],
+  "author": "denggy",
+  "license": "MIT"
+}
